@@ -19,7 +19,5 @@ import data from this file to your database and test the theme.
 <img src='https://raw.githubusercontent.com/91ahmed/Reone-wordpress/master/screenshots/screenshot2.png' style='width:100%;'/>
 
 
-# Good Luck <3
-
 
 
